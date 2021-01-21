@@ -1,19 +1,26 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
       "id": 2,
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
+      "author": "Hannah Gadsby",
+      "likes": [
+        {
+          "quoteId": 2,
+          "createdAt": 1611191660888
+        }
+      ]
     },
     {
       "id": 3,
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "author": "Alok Vaid Menon",
+      "likes": [
+        {
+          "quoteId": 3,
+          "createdAt": 1611191662058
+        }
+      ]
     },
     {
       "id": 4,
@@ -57,11 +64,6 @@
     }
   ],
   "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
     {
       "quoteId": 10,
       "id": 2,
